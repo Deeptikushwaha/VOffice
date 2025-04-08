@@ -1,0 +1,4 @@
+PORT/
+.env
+node_modules/
+dist/
