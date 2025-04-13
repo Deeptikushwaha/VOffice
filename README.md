@@ -1,1 +1,2 @@
-## VOFFICE - A web based Interactive Virtual Office 
+## VOFFICE - A web based Interactive Virtual Office  
+
